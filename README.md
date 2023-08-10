@@ -1,4 +1,4 @@
-# Shopping-App
+# Billing App
 Console based Shopping Application for bill generation
 
 it follows the given flow
